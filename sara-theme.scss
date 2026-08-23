@@ -1,0 +1,82 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Poppins:wght@400;600;700&family=Sail&display=swap');
+
+// Brand colors
+$white:          #ffffff !default;
+$navy-blue:      #003366 !default;
+$accent-teal:    #0F766E !default; // accent colour, can be swappet with the other accent options below
+$accent-red:    #E7553C !default;
+$accent-green:  #374f2f !default;
+
+$body-bg:        $white;
+$body-color:     $navy-blue;
+$link-color:     $accent-teal;
+$link-color-hover: lighten($accent-teal, 10%);
+$selection-bg:   lighten($accent-teal, 40%);
+
+$presentation-heading-color: $navy-blue;
+$presentation-heading-font:  "Poppins", sans-serif;
+$presentation-font-size-root: 32px;
+$presentation-line-height: 1.4;
+
+$code-block-bg: #f2f2f2;
+
+/*-- scss:rules --*/
+
+.reveal {
+  font-family: "Crimson Text", serif;
+
+  h1, h2, h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  h1 { color: $navy-blue; }
+  h2, h3 { color: $accent-teal; }
+}
+
+// Title slide
+.reveal .slides section.title-slide,
+.reveal .title-slide {
+  text-align: center;
+
+  h1.title { color: $navy-blue; }
+
+  p.subtitle {
+    color: $accent-teal;
+    font-style: italic;
+  }
+}
+
+// Cursive accent text (e.g. greetings / thank-you slides)
+.theme-cursive {
+  font-family: "Sail", cursive;
+  color: $navy-blue;
+}
+
+// Alignment helpers
+.centering { text-align: center; }
+.left      { text-align: left; }
+.right     { text-align: right; }
+
+// Color helpers
+.clr-accent { color: $accent-teal; }
+.clr-navy   { color: $navy-blue; }
+
+// optional
+.clr-red    { color: $accent-red; }
+.clr-green    { color: $accent-green; }
+
+
+
+.reveal .slide-logo {
+  max-height: 55px;
+  max-width: 55px;
+}
+
+.reveal .slide-number {
+  background-color: transparent;
+  color: $navy-blue;
+}
