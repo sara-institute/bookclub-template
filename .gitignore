@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto build artifacts
+/.quarto/
+*_files/
+*_cache/
+*.html
+.DS_Store
