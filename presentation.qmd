@@ -1,0 +1,93 @@
+---
+title: "Book Title"
+subtitle: "SARA Book Club"
+author: "Your Name"
+date: today
+format:
+  revealjs:
+    theme: [default, sara-theme.scss]
+    logo: img/logo-sara.png
+    slide-number: true
+    incremental: true
+    menu: true
+    scrollable: true
+---
+
+# Book Title {background-color="#003366"}
+
+**SARA Book Club**
+
+<!-- TODO: replace with a cover-image title slide, e.g.
+# Book Title {background-image="img/cover-titlebook.jpg" background-size="contain" background-position="right" background-color="#003366"}
+-->
+
+## Welcome
+
+::: centering
+Host: **Name**
+Moderator: **Name**
+Expert: **Name**
+[Discussion #] &middot; [Month Year]
+:::
+
+## About the Book
+
+::::: columns
+::: {.column width="55%"}
+### Book Title
+
+**Author:** Author Name
+
+[Short synopsis placeholder, what the book covers, etc.]{.left}
+:::
+
+::: {.column width="45%"}
+![](img/cover-placeholder.png){fig-align="center" width="70%"}
+:::
+:::::
+
+## About the Author
+
+::::: columns
+::: {.column width="30%"}
+![](img/author-placeholder.png){width="80%" fig-align="center"}
+:::
+
+::: {.column width="70%"}
+[Short author bio placeholder.]{.left}
+:::
+:::::
+
+## Why This Book?
+
+- Placeholder reason 1
+- Placeholder reason 2
+- Placeholder reason 3
+
+## Discussion Questions
+
+1. Placeholder question one.
+2. Placeholder question two.
+3. Placeholder question three.
+
+## Key Takeaways
+
+::: incremental
+- Placeholder takeaway one
+- Placeholder takeaway two
+- Placeholder takeaway three
+:::
+
+## Resources
+
+- [Book / author link placeholder](#)
+- [Related article placeholder](#)
+- [Watch the discussion recording](#)
+
+## {background-color="#003366"}
+
+::: centering
+[Thank you!]{.theme-cursive style="font-size: 3em; color: white;"}
+
+**SARA Book Club**
+:::
