@@ -6,12 +6,187 @@ date: today
 format:
   revealjs:
     theme: [default, sara-theme.scss]
-    logo: img/logo-sara.png
+    logo: images/sara-logo-small.png
     slide-number: true
     incremental: true
     menu: true
     scrollable: true
 ---
+
+## {.centering .center}
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](images/savi.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Savitribai Phule (1831-1897)<br>🪷🙏🏽🪷
+
+:::
+
+
+::: {.column width="20%"}
+
+<br>
+
+![](images/sara-logo-medium.png)
+
+:::
+
+::: {.column width="35%"}
+
+![](images/ramai.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Ramabai Ambedkar (1898-1935)<br>🪷🙏🏽🪷
+
+:::
+
+[**Savitribai Ramabai (SARA) Institute of Data Science, Sonipat**]{.r-fit-text}
+
+:::
+
+## About SARA
+
+> Education for everyone
+
+- Est. April 2023
+
+- Free^[Students only pay for their food and accommodation.], open-source and inclusive education
+
+## SARA Data Schools
+
+> Non-profit events $\cdot$ Offline $\cdot$ Sonipat (HR)
+
+1. SARA Summer School "R for Researchers"
+
+1. SARA Winter School "Statistics using R"
+
+1. SARA March Bootcamp "Publish using Quarto"
+
+## Bridge Courses
+
+> Free $\cdot$  Online $\cdot$ Open to all
+
+- For first-generation parents & students.
+
+- Essential subjects like Social Science, Science, Maths, Geography, Economics, General Knowledge etc.
+
+- Every Sunday, live on [SARA YouTube Channel](https://www.youtube.com/@SARADataScience)
+
+## SARA Updates {background-image="images/whatsapp.jpeg" background-position="right" background-size="contain"}
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<br>
+
+> WhatsApp Channel `+840`
+
+::: aside
+
+[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< iconify fa6-brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< iconify fa6-brands instagram size=2x >}}](https://www.instagram.com/sara_data_sci/) &nbsp; [{{< iconify fa6-brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< iconify fa6-brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< iconify fa6-brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< iconify fa6-brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< iconify fa6-brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+:::
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+## Donate to SARA {background-image="images/upi-sara.png" background-position="right" background-size="contain"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<br>
+
+::: {.r-fit-text}
+
+- Account Name: SARA EDUCATION TRUST
+
+- Account Number: `42920911856`
+
+- Bank Name: STATE BANK OF INDIA
+
+- IFSC Code: `SBIN0000721`
+
+:::
+
+:::
+
+::: {.column}
+
+
+:::
+
+:::
+
+
+## SARA Library {background-image="images/book-donation.png" background-position="right" background-size="contain"}
+
+
+::: {.columns}
+
+::: {.column}
+> 40 Books for Bridge Course Level 1
+
+<br>
+
+Link: <https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations>
+
+:::
+
+::: {.column}
+
+
+
+:::
+
+:::
+
+## Contact SARA {background-image="images/sara-logo-medium.png" background-size="20%" background-position="90% 50%"}
+
+::: {.columns }
+
+::: {.column width="70%"}
+::: {.r-fit-text}
+**{{< iconify fa university >}} Address:**<br>
+SARA Institute   
+Dr. Ambedkar Bhavan      
+Near Dayanand Hospital            
+Kakroi Road, Sonipat        
+Haryana - 131001, India       
+Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
+
+<br>
+
+**{{< iconify fa globe >}} Website:** <https://sara-edu.netlify.app/>
+
+<br>
+
+**{{< iconify fa phone >}} Phone:** +91 925 315 2024 
+
+<br>
+
+**{{< iconify fa envelope >}} Email:** [sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)
+
+:::
+:::
+
+::: {.column width="25%" .center}
+
+:::
+
+:::
 
 # Book Title {background-color="#003366"}
 
