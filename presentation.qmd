@@ -205,6 +205,33 @@ Expert: **Name**
 [Discussion #] &middot; [Month Year]
 :::
 
+## Speakers
+
+:::: {.layout-grid}
+
+::: {.col}
+
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/ajay.jpeg)
+
+### **Dr. Ajay Koli** $\cdot$ [{{< iconify fa6-brands linkedin >}}]()
+
+Founder & Director - SARA, India
+
+:::
+::: 
+
+::: {.col}
+
+::: 
+
+::::
+
+
 ## About the Book
 
 ::::: columns
