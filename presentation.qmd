@@ -13,6 +13,45 @@ format:
     scrollable: true
 ---
 
+## Welcome
+
+:::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+![](images/expert.jpeg)
+
+Expert
+
+### **Name** $\cdot$ [{{< iconify fa6-brands linkedin >}}]()
+:::
+:::
+
+::: {.col}
+::: {.card}
+![](images/ceci.jpg)
+
+Moderator
+
+###  **Dr. Cecilia** $\cdot$ [{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/in/cecilia-baldoni/)
+:::
+::: 
+
+::: {.col}
+::: {.card}
+![](images/ajay.jpeg)
+
+Presenter
+
+### **Dr. Ajay Koli** $\cdot$ [{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
+::: 
+:::
+
+::::
+
+
+# Introduction {background-image="images/sara-logo-medium.png" background-size="15%" background-position="50% 15%"}
+
 ## {.centering .center}
 
 ::: {.columns}
@@ -46,17 +85,29 @@ format:
 
 :::
 
-## About SARA
+## About SARA 
 
 > Education for everyone
 
+::: {.nonincremental}
+
 - Est. April 2023
 
-- Free^[Students only pay for their food and accommodation.], open-source and inclusive education
+- Free^1^, open-source and inclusive education.
+
+::: aside
+^1^No tuition fee. Students pay only for their food and accommodation.
+:::
+
+:::
+
+
 
 ## SARA Data Schools
 
 > Non-profit events $\cdot$ Offline $\cdot$ Sonipat (HR)
+
+::: {.nonincremental}
 
 1. SARA Summer School "R for Researchers"
 
@@ -64,15 +115,26 @@ format:
 
 1. SARA March Bootcamp "Publish using Quarto"
 
-## Bridge Courses
+:::
+
+## Bridge Courses {background-image="images/youtube.jpeg" background-position="85% 50%" background-size="25%"}
 
 > Free $\cdot$  Online $\cdot$ Open to all
 
+::: {.nonincremental}
+
+- Live on [SARA YouTube Channel](https://www.youtube.com/@SARADataScience)
+
 - For first-generation parents & students.
 
-- Essential subjects like Social Science, Science, Maths, Geography, Economics, General Knowledge etc.
+- Essential subjects like: 
+  - Social Science
+  - Science
+  - Maths
+  - Dalit Literature
+  - General Knowledge etc.
 
-- Every Sunday, live on [SARA YouTube Channel](https://www.youtube.com/@SARADataScience)
+:::
 
 ## SARA Updates {background-image="images/whatsapp.jpeg" background-position="right" background-size="contain"}
 
@@ -84,7 +146,7 @@ format:
 <br>
 <br>
 
-> WhatsApp Channel `+840`
+> WhatsApp Channel `+840` People
 
 ::: aside
 
@@ -109,6 +171,7 @@ format:
 <br>
 <br>
 
+::: {.nonincremental}
 ::: {.r-fit-text}
 
 - Account Name: SARA EDUCATION TRUST
@@ -118,6 +181,7 @@ format:
 - Bank Name: STATE BANK OF INDIA
 
 - IFSC Code: `SBIN0000721`
+:::
 
 :::
 
@@ -125,14 +189,12 @@ format:
 
 ::: {.column}
 
-
 :::
 
 :::
 
 
 ## SARA Library {background-image="images/book-donation.png" background-position="right" background-size="contain"}
-
 
 ::: {.columns}
 
@@ -147,9 +209,21 @@ Link: <https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations
 
 ::: {.column}
 
-
+:::
 
 :::
+
+## Sircle {background-image="images/sircle-logo-nobg.png" background-size="35%" background-position="90% 50%"}
+
+> SARA Jai Bhim Circle
+
+::: {.nonincremental}
+
+- Quarterly online community meet-up
+
+- To share success and receive guidance
+
+- To share donation and expenses status
 
 :::
 
@@ -161,30 +235,26 @@ Link: <https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations
 ::: {.r-fit-text}
 **{{< iconify fa university >}} Address:**<br>
 SARA Institute   
-Dr. Ambedkar Bhavan      
-Near Dayanand Hospital            
-Kakroi Road, Sonipat        
-Haryana - 131001, India       
+Dr. Ambedkar Bhavan, Near Dayanand Hospital            
+Kakroi Road, Sonipat, Haryana - 131001, India       
 Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 
 <br>
 
+**{{< iconify fa phone >}} Phone:** +91 925 315 2024     
+**{{< iconify fa envelope >}} Email:** [sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)  
 **{{< iconify fa globe >}} Website:** <https://sara-edu.netlify.app/>
-
-<br>
-
-**{{< iconify fa phone >}} Phone:** +91 925 315 2024 
-
-<br>
-
-**{{< iconify fa envelope >}} Email:** [sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)
 
 :::
 :::
 
 ::: {.column width="25%" .center}
-
 :::
+:::
+
+::: aside
+
+[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< iconify fa6-brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< iconify fa6-brands instagram size=2x >}}](https://www.instagram.com/sara_data_sci/) &nbsp; [{{< iconify fa6-brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< iconify fa6-brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< iconify fa6-brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< iconify fa6-brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< iconify fa6-brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 :::
 
@@ -196,40 +266,6 @@ Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 # Book Title {background-image="img/cover-titlebook.jpg" background-size="contain" background-position="right" background-color="#003366"}
 -->
 
-## Welcome
-
-::: centering
-Host: **Name**
-Moderator: **Name**
-Expert: **Name**
-[Discussion #] &middot; [Month Year]
-:::
-
-## Speakers
-
-:::: {.layout-grid}
-
-::: {.col}
-
-:::
-
-::: {.col}
-::: {.card}
-
-![](images/ajay.jpeg)
-
-### **Dr. Ajay Koli** $\cdot$ [{{< iconify fa6-brands linkedin >}}]()
-
-Founder & Director - SARA, India
-
-:::
-::: 
-
-::: {.col}
-
-::: 
-
-::::
 
 
 ## About the Book
